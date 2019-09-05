@@ -6,7 +6,6 @@
 .pm-icon-telegram:before{content:"\e903"}
 .pm-clear{clear:both}
 .pm-hide{display:none!important}
-*[id^="template-"]{display:none!important}
 .popup-slide{opacity:1;-webkit-transform:translateY(0);transform:translateY(0);-webkit-animation-duration:0.64s;animation-duration:0.64s;-webkit-animation-timing-function:cubic-bezier(0.23,1,0.32,1);animation-timing-function:cubic-bezier(0.23,1,0.32,1);-webkit-animation-delay:0.16s;animation-delay:0.16s}
 .popup-slide-in{-webkit-animation-name:wh-popup-slide-in;animation-name:wh-popup-slide-in;-webkit-animation-fill-mode:backwards;animation-fill-mode:backwards}
 .popup-slide-out{-webkit-animation-name:wh-popup-slide-out;animation-name:wh-popup-slide-out;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards}
